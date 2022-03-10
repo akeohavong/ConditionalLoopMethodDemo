@@ -19,6 +19,8 @@ namespace ConditionalLoopMethodDemo
             string fname = GetRequiredString("Enter you first name: ");
             Console.WriteLine($"First name: {fname}");
 
+            Console.WriteLine("Good job!");
+
         }
 
         private static string GetRequiredString(string prompt)
