@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalLoopMethodDemo", "ConditionalLoopMethodDemo.csproj", "{06083E7C-CB24-42A7-86AE-C34B12310CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06083E7C-CB24-42A7-86AE-C34B12310CDB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{06083E7C-CB24-42A7-86AE-C34B12310CDB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{06083E7C-CB24-42A7-86AE-C34B12310CDB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{06083E7C-CB24-42A7-86AE-C34B12310CDB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FDFAB88-5C2C-4157-915D-1C23B833EA03}
+	EndGlobalSection
+EndGlobal
